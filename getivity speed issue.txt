@@ -1,0 +1,19 @@
+Delta-team-12
+
+Timesheet
+1 - when refreshing page, loading of time entry gets more time
+2 - Report > detailed time > run Report button
+3 - When we click "submit week for Approval" button
+
+
+
+
+
+
+
+manage
+1 - project > edit project, load time
+2 - cannot update project so when we refresh page it shows error message
+3 -client Loading time
+4 - Activities > archived and restored activities take time to display
+5 - project update gets more time and loader is not displayed
